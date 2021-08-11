@@ -1,3 +1,28 @@
+<h1 align="center">Weather App</h1>
+
+<p align="center">The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast.
+</p>
+
+## Screenshots
+
+![](src/components/images/weather_app_gif.gif)
+
+## Built With
+
+- React
+
+## Author
+
+**Kartik Attri**
+- [Profile](https://github.com/kartik-05 "Kartik Attri")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
